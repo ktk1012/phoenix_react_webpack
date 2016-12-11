@@ -1,6 +1,6 @@
 # phoenix_react_webpack
 
-Boilerplate for phoenix web framework with react and webpack.
+Boilerplate for phoenix web framework with react, react-bootstrap and webpack.
 
 To start your Phoenix app:
 
